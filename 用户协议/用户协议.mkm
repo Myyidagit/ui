@@ -1,0 +1,16 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="0" y="72" color="16711680" length="24" direction="12"/>
+    <LengthMark x="0" y="133" color="16711680" length="750" direction="12"/>
+    <TextMark x="371" y="66" color="16711680" offsetX="74" offsetY="50" defaultDirection="9" direction="9" textMaxWidth="100" text="#252525&#xD;32px&#xD;苹方 特粗"/>
+    <LengthMark x="730" y="201" color="16711680" length="24" direction="12"/>
+    <LengthMark x="48" y="365" color="16711680" length="32" direction="12"/>
+    <LengthMark x="267" y="1" color="16711680" length="58" direction="3"/>
+    <LengthMark x="252" y="87" color="16711680" length="74" direction="3"/>
+    <LengthMark x="45" y="303" color="16711680" length="48" direction="3"/>
+    <TextMark x="414" y="233" color="16711680" offsetX="55" offsetY="32" defaultDirection="10" direction="10" textMaxWidth="100" text="#454545&#xD;26px&#xD;字间距60px"/>
+    <TextMark x="183" y="356" color="16711680" offsetX="42" offsetY="39" defaultDirection="9" direction="9" textMaxWidth="100" text="#454545&#xD;26px&#xD;字间距56px"/>
+    <RectMark x="42" y="57" color="16711680" offsetX="18" offsetY="32"/>
+    <LengthMark x="16" y="352" color="16711680" length="24" direction="3"/>
+  </Marks>
+</MKM>
